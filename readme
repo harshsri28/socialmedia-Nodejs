@@ -1,0 +1,36 @@
+# Social Media Backend
+
+This repository contains the backend code for a social media application.
+
+## Description
+
+This backend is responsible for handling various functionalities related to social media. Currently Many things are Pending!!
+
+## Technologies Used
+
+- Node.js
+- Express.js
+- MongoDB (or any database used)
+- Mongoose (if using MongoDB)
+- Other relevant technologies...
+
+## Getting Started
+
+To get started with the project:
+
+1. Clone the repository.
+2. Install dependencies with `npm install`.
+3. Set up the necessary environment variables.
+4. Run the server with `npm start`.
+
+## Usage
+
+Describe how to use the backend, such as available endpoints, authentication methods, etc.
+
+## Contributing
+
+Feel free to contribute by opening issues or submitting pull requests.
+
+## License
+
+This project is licensed under the [License Name] - e.g., MIT License.
